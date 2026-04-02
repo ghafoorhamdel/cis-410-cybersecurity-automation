@@ -25,11 +25,11 @@ infrastructure as code, and cloud deployment.
 
 - [Add something you want to learn in this course]
 
-- [I want to improve my skills]
+- [I also want to learn more practical cybersecurity skills in this course, especially how to protect systems from real-world attacks and improve data security.]
 
-- [I like to learn more about my career]
+- [I also want to learn how to use cybersecurity tools in real-world scenarios, so I can build hands-on experience and strengthen my career skills.]
 
 
 ## Fun Fact
 
-[Share one fun fact about yourself]
+[A fun fact about me is that I enjoy learning how systems work behind the scenes especially when it comes to cybersecurity and protecting data from attacks.]
