@@ -9,7 +9,7 @@
 
 - **Major:** [cybersecurity]
 
-- **Semester:** [First Semesterghggh]
+- **Semester:** [First Semester of spring]
 
 
 ## About This Course
