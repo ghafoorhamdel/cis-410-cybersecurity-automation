@@ -33,3 +33,13 @@ infrastructure as code, and cloud deployment.
 ## Fun Fact
 
 [A fun fact about me is that I enjoy learning how systems work behind the scenes especially when it comes to cybersecurity and protecting data from attacks.]
+
+## My Week 2 Infrastructure
+
+ 
+
+Runner VM: ub-server
+
+Runner IP: 192.168.1.130
+
+Pipeline status: [![Hello Pipeline](https://github.com/ghafoorhamdel/cis-410-cybersecurity-automation/actions/workflows/hello-pipeline.yml/badge.svg)](https://github.com/ghafoorhamdel/cis-410-cybersecurity-automation/actions/workflows/hello-pipeline.yml)
